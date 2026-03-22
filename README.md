@@ -1,2 +1,1 @@
-# machine-learning-projects
-Machine Learning projects and labs including IBM Machine Learning with Python, regression, classification, and clustering models.
+Data Science portfolio featuring hands-on projects and labs focused on data analysis, visualization, and machine learning. Demonstrates end-to-end workflows from data preprocessing to model building and insights generation.
